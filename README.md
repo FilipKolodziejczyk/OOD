@@ -4,3 +4,4 @@ This repository contains solutions for tasks concerning the implementation of de
 ### List of design patterns:
 1. Lab 1 - **Decorator**
 2. Lab 2 - **Iterator**
+3. Lab 3 - **Abstract Factory**
